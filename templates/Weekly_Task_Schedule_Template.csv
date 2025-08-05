@@ -1,0 +1,15 @@
+day_of_week,time,task,category,priority,recurring,notes
+Monday,09:00,Team meeting,Meetings,High,True,Weekly stand-up
+Monday,09:30,Check weekend emails,Admin,Medium,True,Scan for urgent threads
+Monday,10:00,Verify training programs are go,Programs,High,True,Check instructor confirmations + platform
+Monday,11:00,Review attendee/instructor meetings,Prep,Medium,True,Review upcoming calendar
+Tuesday,09:00,Check LinkedIn for FAR posts,Social,Medium,True,Prep post for next week's event
+Tuesday,15:00,Post-FAR recap if applicable,Social,Medium,False,Only after Wed FAR event
+Wednesday,08:30,Run scheduled programs,Programs,High,False,If programs are scheduled
+Thursday,08:30,Run scheduled programs,Programs,High,False,If programs are scheduled
+Friday,09:00,Update recording links,Content,High,True,Sync links in event platform
+Friday,09:30,Update recording list,Content,Medium,True,Update master tracking list
+Friday,10:00,Update subscribable calendars,Calendar,Medium,True,Ensure all trainings appear
+Friday,11:00,Update Everything PCI PDF,Docs,Medium,True,Include new offerings
+Friday,11:30,Update Virtual Bundle doc,Docs,Medium,True,Reflect latest content
+Friday,12:00,Update CVENT Rosters,Admin,High,True,Upload participant info
